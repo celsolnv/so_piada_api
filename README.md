@@ -10,13 +10,8 @@
     esteja instalado php, apache e mysql.
 </p>
 <p>
-    Para dar inicio, dê start no servidor apache e no mysql.
-    Faça o download do projeto e jogue na pasta <cite> "htdocs"</cite> para que possa ser acessado 
-    através da browser.
-    Abra o <cite> phpmyadmin </cite> (você pode acessa-lo neste link -> <a href="http://localhost/phpmyadmin/ ">http://localhost/phpmyadmin/</a> ).
-    Em seguida import o arquivo seed.sql para gerar o banco de dados que será usado.
-    Caso tenha alguma senha para o usuário <cite> "root" </cite>, favor alterar no arquivo 
-    <cite> "criarConexao.php"</cite> com suas credenciais.
+    Para dar inicio, dê start no servidor apache.
+    Faça o download do projeto e jogue na pasta <cite> "htdocs"</cite> para que possa ser acessado através da browser.
 
 </p>
 
